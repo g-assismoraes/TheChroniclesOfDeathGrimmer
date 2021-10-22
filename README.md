@@ -1,6 +1,6 @@
 <div align="center">
- <h4>Projeto Final da Disciplina Laboratório de Programação de Jogos da Universidade Federal Fluminense.
- <a href="https://the-agk.itch.io/the-chronicles-of-death-grimmer" target="_blank"><img align="right" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a></h4>
+ <h5>Projeto Final da Disciplina Laboratório de Programação de Jogos da Universidade Federal Fluminense.
+ <a href="https://the-agk.itch.io/the-chronicles-of-death-grimmer" target="_blank"><img align="right" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a></h5>
 </div>
  
    ##
